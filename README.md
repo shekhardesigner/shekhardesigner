@@ -1,3 +1,2 @@
-Account reserved for [@absqueued](https://github.com/shekhardesigner).
-
-Follow my new account. This is an old handle.
+### Account reserved!
+This is an old git handle; and is now reserved for [@absqueued](https://github.com/absqueued).
